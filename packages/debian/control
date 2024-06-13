@@ -2,7 +2,7 @@ Source: rapidsvn
 Section: vcs
 Priority: optional
 Maintainer: Richard B Winters <rik@mmogp.com>
-Build-Depends: debhelper (>= 9), libneon27-gnutls-dev, libsvn-dev (>= 1.4.4), libsasl2-dev, libwxgtk3.0-dev, xsltproc, docbook-xsl, doxygen, autotools-dev, python, dpkg-dev (>=1.17)
+Build-Depends: debhelper (>= 9), libneon27-gnutls-dev, libsvn-dev (>= 1.4.4), libsasl2-dev, libwxgtk3.0-gtk3-dev, xsltproc, docbook-xsl, doxygen, autotools-dev, python-is-python3, dpkg-dev (>=1.17)
 Homepage: http://rapidsvn.tigris.org/
 Standards-Version: 3.9.6
 
